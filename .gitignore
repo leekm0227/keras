@@ -1,0 +1,6 @@
+*.pyproj
+*.sln
+.vs/
+__pycache__/
+*.h5
+*.json
